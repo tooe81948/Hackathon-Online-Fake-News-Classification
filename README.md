@@ -1,5 +1,18 @@
 # Hackathon-Online-Fake-News-Classification
+
 Hackathon Online: Fake News Classification Super AI Engineer Season 3
 
-เป็นหนึ่งในรายการแข่งขัน Hackathon Online ของ Super AI Engineer Season 3 เป็นการแข่งขันเกี่ยวกับการคัดกรองข่าวในโลกออนไลน์ ว่าเป็นข่าวจริงหรือข่าวปลอม ที่หลอกให้คนเชื่อ
-การแข่งขันนี้เข้าร่วมเพื่อความสนุกเพียงเท่านั้น
+This is one of the competitions in the Super AI Engineer Season 3 online hackathon, which involves filtering news articles on the internet to determine if they are real or fake. The competition is for fun only.
+
+Data folder:
+
+    This folder contains data collected from various sources on the internet.
+    
+File_code folder:
+
+    This folder contains the data for training the model, data preprocessing, model preparation, and other related tasks.
+    
+Model folder:
+
+    This folder contains the pre-trained model.
+
