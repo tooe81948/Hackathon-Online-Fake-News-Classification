@@ -10,7 +10,7 @@ Data folder:
     
 File_code folder:
 
-    This folder contains the data for training the model, data preprocessing, model preparation, and other related tasks.
+    This folder contains the data for training the model, data preprocessing, model preparation and other related tasks.
     
 Model folder:
 
